@@ -1,0 +1,26 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"quickfix.biome": "explicit",
+		"source.organizeImports.biome": "explicit"
+	},
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"terminal.integrated.defaultProfile.linux": "fish",
+	"editor.fontFamily": "mononoki",
+	"explorer.compactFolders": false,
+	"editor.indentSize": "tabSize",
+	"editor.tabSize": 4
+}
